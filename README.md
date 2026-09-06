@@ -67,9 +67,7 @@ bun run build
 
 Developed by **Dudu 3D Art&Designs**
 
-## License
 
-[MIT](https://www.google.com/search?q=LICENSE)
 
 ```
 
