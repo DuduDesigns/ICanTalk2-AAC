@@ -1,0 +1,39 @@
+{
+  "name": "ICanTalk2 AAC - Augmentative Communication",
+  "short_name": "ICanTalk2 AAC",
+  "description": "Comprehensive offline-first Progressive Web App (AAC) for expressive communication.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["medical", "education", "accessibility", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Quick Speak",
+      "url": "/",
+      "description": "Open ICanTalk2 AAC Communication Board"
+    }
+  ]
+}

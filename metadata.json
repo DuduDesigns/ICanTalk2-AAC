@@ -1,0 +1,6 @@
+{
+  "name": "ICanTalk2 AAC",
+  "description": "Comprehensive offline-first Progressive Web App (AAC) communication board with multi-tier grids, 18-language TTS, AI grammar expansion, tile voice recording studio, and caregiver portal.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
